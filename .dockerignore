@@ -1,0 +1,5 @@
+__pycache__/
+.git/
+.env
+results.json
+.pytest_cache/
