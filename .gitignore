@@ -1,0 +1,19 @@
+# Python cache and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+dist/
+build/
+.coverage
+# Local secrets and generated reports
+.env
+.env.*
+!.env.example
+*.local
+results.json
+# OS and editor
+.DS_Store
+.idea/
+.vscode/
